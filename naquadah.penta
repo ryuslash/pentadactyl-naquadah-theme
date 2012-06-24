@@ -1,0 +1,15 @@
+hi AddonButtons background-color: #252a2b
+hi AddonButtons>* color: #729fcf
+hi AddonDescription background-color: #252a2b; color: #eeeeec
+hi AddonHead background-color: #0c191c; color: #edd400;
+hi AddonName background-color: #252a2b; color: #eeeeec
+hi AddonStatus background-color: #252a2b
+hi AddonStatus>* color: #eeeeec
+hi AddonVersion background-color: #252a2b; color: #eeeeec
+
+hi CmdLine background-color: #0c191c; color: #eeeeec; border-width: 1px; border-style: solid; border-color: #2e3536; border-right: none
+
+hi CompDesc background-color: #252a2b; color: #eeeeec
+hi CompGroup background-color: #252a2b; color: #eeeeec
+hi CompIcon background-color: transparent
+hi CompItem[selected] background-color: #cc0000
