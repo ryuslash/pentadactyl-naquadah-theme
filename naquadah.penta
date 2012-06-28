@@ -1,10 +1,10 @@
 hi AddonButtons background-color: #252a2b
-hi AddonButtons>* color: #729fcf
+hi AddonButtons\ * color: #729fcf
 hi AddonDescription background-color: #252a2b; color: #eeeeec
 hi AddonHead background-color: #0c191c; color: #edd400;
 hi AddonName background-color: #252a2b; color: #eeeeec
 hi AddonStatus background-color: #252a2b
-hi AddonStatus>* color: #eeeeec
+hi AddonStatus\ * color: #eeeeec
 hi AddonVersion background-color: #252a2b; color: #eeeeec
 
 hi CompDesc background-color: #252a2b; color: #eeeeec
