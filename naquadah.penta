@@ -7,9 +7,13 @@ hi AddonStatus background-color: #252a2b
 hi AddonStatus>* color: #eeeeec
 hi AddonVersion background-color: #252a2b; color: #eeeeec
 
-hi CmdLine background-color: #0c191c; color: #eeeeec; border-width: 1px; border-style: solid; border-color: #2e3536; border-right: none
-
 hi CompDesc background-color: #252a2b; color: #eeeeec
 hi CompGroup background-color: #252a2b; color: #eeeeec
 hi CompIcon background-color: transparent
 hi CompItem[selected] background-color: #cc0000
+
+hi StatusLine border: 1px solid #2e3536 !important
+hi StatusLineBroken background-color: #ef2929 !important; color: #eeeeec
+hi StatusLineExtended background-color: #8ae234 !important; color: #0c191c
+hi StatusLineNormal background-color: #0c191c; color: #eeeeec
+hi StatusLineSecure background-color: #729fcf !important; color: #0c191c
