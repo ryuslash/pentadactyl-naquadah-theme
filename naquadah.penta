@@ -15,5 +15,5 @@ hi CompItem[selected] background-color: #cc0000
 hi StatusLine border: 1px solid #2e3536 !important
 hi StatusLineBroken background-color: #ef2929 !important; color: #eeeeec
 hi StatusLineExtended background-color: #8ae234 !important; color: #0c191c
-hi StatusLineNormal background-color: #0c191c; color: #eeeeec
+hi StatusLineNormal background-color: #0c191c !important; color: #eeeeec
 hi StatusLineSecure background-color: #729fcf !important; color: #0c191c
