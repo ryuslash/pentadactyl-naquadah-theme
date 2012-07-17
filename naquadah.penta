@@ -1,19 +1,25 @@
-hi AddonButtons background-color: #252a2b
-hi AddonButtons\ * color: #729fcf
-hi AddonDescription background-color: #252a2b; color: #eeeeec
-hi AddonHead background-color: #0c191c; color: #edd400;
-hi AddonName background-color: #252a2b; color: #eeeeec
-hi AddonStatus background-color: #252a2b
-hi AddonStatus\ * color: #eeeeec
-hi AddonVersion background-color: #252a2b; color: #eeeeec
+hi Enabled color: #729fcf
+hi Disabled color: #ef2929
 
-hi CompDesc background-color: #252a2b; color: #eeeeec
-hi CompGroup background-color: #252a2b; color: #eeeeec
-hi CompIcon background-color: transparent
-hi CompItem[selected] background-color: #cc0000
+hi Normal color: #eeeeec !important; background-color: #252a2b !important; font-weight: normal !important;
+hi ErrorMsg color: #eeeeec !important; background-color: #cc0000 !important; font-weight: bold !important;
+hi InfoMsg color: #eeeeec !important; background-color: #252a2b !important;
+" hi LineNr
+hi ModeMsg color: #eeeeec !important; background-color: #252a2b !important;
+hi MoreMsg color: #eeeeec !important; background-color: #252a2b !important; font-weight: bold;
+hi NonText color: #eeeeec; background-color: transparent !important;
+hi Question color: #eeeeec !important; background-color: #252a2b !important; font-weight: bold !important;
+hi WarningMsg color: #cc0000 !important; background-color: #252a2b !important;
 
-hi StatusLine border: 1px solid #2e3536 !important
-hi StatusLineBroken background-color: #ef2929 !important; color: #eeeeec
-hi StatusLineExtended background-color: #8ae234 !important; color: #0c191c
-hi StatusLineNormal background-color: #0c191c !important; color: #eeeeec
-hi StatusLineSecure background-color: #729fcf !important; color: #0c191c
+hi CompTitle color: #eeeeec; background-color: #0c191c;
+hi CompTitleSep height: 1px; background-color: #2e3436;
+hi CompItem[selected] background: #cc0000;
+
+hi StatusLine border: 1px solid #2e3536 !important;
+hi StatusLineNormal background-color: #0c191c !important; color: #eeeeec !important;
+hi StatusLineBroken background-color: #ef2929 !important; color: #eeeeec !important;
+hi StatusLineSecure background-color: #729fcf !important; color: #0c191c !important;
+hi StatusLineExtended background-color: #8ae234 !important; color: #0c191c !important;
+
+hi Title color: #eeeeec; font-weight: bold;
+hi URL color: #729fcf; background: inherit; text-decoration: none;
